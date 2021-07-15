@@ -41,4 +41,12 @@ h1 {
 	background-color: black;
 }
 
+.bat { 
+display: inline-block;
+font-weight:400;
+line-height: 1.5;
+text-align: center;
+text-decoration: none;
+vertical-align: middle; 
+}
 
